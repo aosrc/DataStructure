@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rc/GitRepository/DataStructure/ArrayBasedList/AList.h
+assert.h
+-
+List.h
+/home/rc/GitRepository/DataStructure/ArrayBasedList/List.h
+
+/home/rc/GitRepository/DataStructure/ArrayBasedList/List.h
+
+/home/rc/GitRepository/DataStructure/ArrayBasedList/main.cpp
+iostream
+-
+AList.h
+/home/rc/GitRepository/DataStructure/ArrayBasedList/AList.h
+
