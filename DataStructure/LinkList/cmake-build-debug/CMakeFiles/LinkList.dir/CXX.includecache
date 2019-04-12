@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rc/GitRepository/DataStructure/LinkList/LList.h
+Link.h
+/home/rc/GitRepository/DataStructure/LinkList/Link.h
+assert.h
+-
+
+/home/rc/GitRepository/DataStructure/LinkList/Link.h
+
+/home/rc/GitRepository/DataStructure/LinkList/main.cpp
+iostream
+-
+LList.h
+/home/rc/GitRepository/DataStructure/LinkList/LList.h
+
