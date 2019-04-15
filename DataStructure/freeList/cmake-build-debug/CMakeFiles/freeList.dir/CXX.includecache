@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rc/GitRepository/DataStructure/freeList/LList.h
+Link.h
+/home/rc/GitRepository/DataStructure/freeList/Link.h
+assert.h
+-
+
+/home/rc/GitRepository/DataStructure/freeList/Link.h
+cstddef
+-
+iostream
+-
+
+/home/rc/GitRepository/DataStructure/freeList/main.cpp
+iostream
+-
+LList.h
+/home/rc/GitRepository/DataStructure/freeList/LList.h
+
