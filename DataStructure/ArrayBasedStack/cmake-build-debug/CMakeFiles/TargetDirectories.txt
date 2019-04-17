@@ -1,0 +1,3 @@
+/home/rc/GitRepository/DataStructure/ArrayBasedStack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rc/GitRepository/DataStructure/ArrayBasedStack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rc/GitRepository/DataStructure/ArrayBasedStack/cmake-build-debug/CMakeFiles/ArrayBasedStack.dir
