@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DoubleLinkList.dir/main.cpp.o  -o DoubleLinkList 

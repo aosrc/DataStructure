@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rc/GitRepository/DataStructure/DoubleLinkList/DoubleLinkList.h
+Link.h
+/home/rc/GitRepository/DataStructure/DoubleLinkList/Link.h
+assert.h
+-
+
+/home/rc/GitRepository/DataStructure/DoubleLinkList/Link.h
+cstddef
+-
+
+/home/rc/GitRepository/DataStructure/DoubleLinkList/main.cpp
+iostream
+-
+DoubleLinkList.h
+/home/rc/GitRepository/DataStructure/DoubleLinkList/DoubleLinkList.h
+
