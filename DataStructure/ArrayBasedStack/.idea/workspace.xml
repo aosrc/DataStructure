@@ -12,13 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4017d26f-dad6-49bb-a08a-244be277fa94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LinkedStack/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedStack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedStack/LStack.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedStack/Link.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedStack/Stack.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayBasedStack_V2.0/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayBasedStack_V2.0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayBasedStack_V2.0/AStack2.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedStack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedStack/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +31,8 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -87,7 +85,6 @@
               <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
               <folding>
                 <element signature="e#103#121#0" expanded="true" />
-                <element signature="e#151#163#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,8 +112,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="y" value="38" />
-    <option name="width" value="964" />
-    <option name="height" value="1042" />
+    <option name="width" value="962" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -126,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,11 +135,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="SwiftSettings" />
@@ -186,17 +184,18 @@
       <updated>1555487877025</updated>
       <workItem from="1555487878143" duration="3153000" />
       <workItem from="1555491350671" duration="704000" />
+      <workItem from="1555499222925" duration="864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3857000" />
+    <option name="totallyTimeSpent" value="4721000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="38" width="964" height="1042" extended-state="4" />
+    <frame x="0" y="38" width="962" height="1046" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25494507" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2610132" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -245,7 +244,6 @@
           <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
           <folding>
             <element signature="e#103#121#0" expanded="true" />
-            <element signature="e#151#163#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rc/GitRepository/DataStructure/ArrayBasedStack_V2.0/AStack2.h
+
+/home/rc/GitRepository/DataStructure/ArrayBasedStack_V2.0/main.cpp
+iostream
+-
+AStack2.h
+/home/rc/GitRepository/DataStructure/ArrayBasedStack_V2.0/AStack2.h
+
