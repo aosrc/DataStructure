@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rc/GitRepository/DataStructure/ArrayBasedQueue/AQueue.h
+Queue.h
+/home/rc/GitRepository/DataStructure/ArrayBasedQueue/Queue.h
+cassert
+-
+
+/home/rc/GitRepository/DataStructure/ArrayBasedQueue/Queue.h
+
+/home/rc/GitRepository/DataStructure/ArrayBasedQueue/main.cpp
+iostream
+-
+AQueue.h
+/home/rc/GitRepository/DataStructure/ArrayBasedQueue/AQueue.h
+
