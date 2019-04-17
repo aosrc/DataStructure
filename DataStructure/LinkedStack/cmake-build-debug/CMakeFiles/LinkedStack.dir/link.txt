@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LinkedStack.dir/main.cpp.o  -o LinkedStack 

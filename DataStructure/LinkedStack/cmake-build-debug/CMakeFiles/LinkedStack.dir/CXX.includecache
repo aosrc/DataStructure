@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rc/GitRepository/DataStructure/LinkedStack/LStack.h
+Link.h
+/home/rc/GitRepository/DataStructure/LinkedStack/Link.h
+Stack.h
+/home/rc/GitRepository/DataStructure/LinkedStack/Stack.h
+cassert
+-
+
+/home/rc/GitRepository/DataStructure/LinkedStack/Link.h
+
+/home/rc/GitRepository/DataStructure/LinkedStack/Stack.h
+
+/home/rc/GitRepository/DataStructure/LinkedStack/main.cpp
+iostream
+-
+LStack.h
+/home/rc/GitRepository/DataStructure/LinkedStack/LStack.h
+
