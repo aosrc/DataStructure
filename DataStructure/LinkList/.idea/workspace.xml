@@ -12,11 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fa71c00-5405-4f72-aaef-d70413681520" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LinkedStack/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedStack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedStack/LStack.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedStack/Link.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayBasedStack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayBasedStack/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedQueue/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedQueue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedQueue/LQueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedQueue/Queue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayBasedQueue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayBasedQueue/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,10 +30,10 @@
     <session id="-153503736">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -71,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/Link.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#94#106#0" expanded="true" />
               </folding>
@@ -82,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LList.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
+            <state relative-caret-position="1748">
               <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
               <folding>
                 <element signature="e#87#104#0" expanded="true" />
@@ -189,17 +189,17 @@
       <workItem from="1555303116902" duration="674000" />
       <workItem from="1555479791172" duration="1005000" />
       <workItem from="1555491293632" duration="65000" />
+      <workItem from="1555515480038" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8813000" />
+    <option name="totallyTimeSpent" value="8853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="962" y="39" width="954" height="1037" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13222222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -244,7 +244,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LList.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
+        <state relative-caret-position="1748">
           <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
           <folding>
             <element signature="e#87#104#0" expanded="true" />
@@ -255,7 +255,7 @@
     <entry file="file://$PROJECT_DIR$/Link.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#94#106#0" expanded="true" />
           </folding>

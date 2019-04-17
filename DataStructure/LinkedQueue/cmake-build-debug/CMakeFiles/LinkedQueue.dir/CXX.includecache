@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rc/GitRepository/DataStructure/LinkedQueue/LQueue.h
+Queue.h
+/home/rc/GitRepository/DataStructure/LinkedQueue/Queue.h
+cassert
+-
+Link.h
+/home/rc/GitRepository/DataStructure/LinkedQueue/Link.h
+
+/home/rc/GitRepository/DataStructure/LinkedQueue/Link.h
+
+/home/rc/GitRepository/DataStructure/LinkedQueue/Queue.h
+
+/home/rc/GitRepository/DataStructure/LinkedQueue/main.cpp
+iostream
+-
+LQueue.h
+/home/rc/GitRepository/DataStructure/LinkedQueue/LQueue.h
+
