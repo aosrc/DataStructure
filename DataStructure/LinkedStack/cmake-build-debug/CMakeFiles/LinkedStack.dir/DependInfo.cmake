@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/rc/GitRepository/DataStructure/LinkedStack/main.cpp" "/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/LinkedStack.dir/main.cpp.o"
+  "/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/main.cpp" "/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/LinkedStack.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

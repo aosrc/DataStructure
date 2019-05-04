@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_8fc7e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_8fc7e.dir/build.make CMakeFiles/cmTC_8fc7e.dir/build
-make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_8fc7e.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_8fc7e.dir/testCCompiler.c.o   -c /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_8fc7e
-/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8fc7e.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_8fc7e.dir/testCCompiler.c.o  -o cmTC_8fc7e 
-make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_35764/fast"
+/usr/bin/make -f CMakeFiles/cmTC_35764.dir/build.make CMakeFiles/cmTC_35764.dir/build
+make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_35764.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_35764.dir/testCCompiler.c.o   -c /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_35764
+/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_35764.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_35764.dir/testCCompiler.c.o  -o cmTC_35764 
+make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_27c98/fast"
-/usr/bin/make -f CMakeFiles/cmTC_27c98.dir/build.make CMakeFiles/cmTC_27c98.dir/build
-make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_27c98.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_27c98.dir/CMakeCCompilerABI.c.o   -c /home/rc/Documents/clion-2018.2.6/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_27c98
-/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_27c98.dir/link.txt --verbose=1
-/usr/bin/cc     -v CMakeFiles/cmTC_27c98.dir/CMakeCCompilerABI.c.o  -o cmTC_27c98 
+Run Build Command:"/usr/bin/make" "cmTC_4453a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4453a.dir/build.make CMakeFiles/cmTC_4453a.dir/build
+make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4453a.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_4453a.dir/CMakeCCompilerABI.c.o   -c /home/rc/Documents/clion-2018.2.6/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_4453a
+/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4453a.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTC_4453a.dir/CMakeCCompilerABI.c.o  -o cmTC_4453a 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper
@@ -59,24 +59,24 @@ Thread model: posix
 gcc version 8.2.1 20181127 (GCC) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_27c98' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccBoUviL.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_27c98 /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../.. CMakeFiles/cmTC_27c98.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_27c98' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4453a' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccTlks6j.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_4453a /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../.. CMakeFiles/cmTC_4453a.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4453a' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_27c98/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_27c98.dir/build.make CMakeFiles/cmTC_27c98.dir/build]
-  ignore line: [make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_27c98.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_27c98.dir/CMakeCCompilerABI.c.o   -c /home/rc/Documents/clion-2018.2.6/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_27c98]
-  ignore line: [/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_27c98.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_27c98.dir/CMakeCCompilerABI.c.o  -o cmTC_27c98 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_4453a/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_4453a.dir/build.make CMakeFiles/cmTC_4453a.dir/build]
+  ignore line: [make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_4453a.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_4453a.dir/CMakeCCompilerABI.c.o   -c /home/rc/Documents/clion-2018.2.6/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_4453a]
+  ignore line: [/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4453a.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_4453a.dir/CMakeCCompilerABI.c.o  -o cmTC_4453a ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper]
@@ -86,13 +86,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 8.2.1 20181127 (GCC) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_27c98' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccBoUviL.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_27c98 /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../.. CMakeFiles/cmTC_27c98.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4453a' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccTlks6j.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_4453a /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../.. CMakeFiles/cmTC_4453a.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crtn.o]
     arg [/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccBoUviL.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccTlks6j.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -107,7 +107,7 @@ Parsed C implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-pie] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_27c98] ==> ignore
+    arg [cmTC_4453a] ==> ignore
     arg [/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtbeginS.o] ==> ignore
@@ -116,7 +116,7 @@ Parsed C implicit link information from above output:
     arg [-L/lib/../lib] ==> dir [/lib/../lib]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../..] ==> dir [/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../..]
-    arg [CMakeFiles/cmTC_27c98.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_4453a.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -141,17 +141,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_8dc8a/fast"
-/usr/bin/make -f CMakeFiles/cmTC_8dc8a.dir/build.make CMakeFiles/cmTC_8dc8a.dir/build
-make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_8dc8a.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_8dc8a.dir/feature_tests.c.o   -c /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_8dc8a
-/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8dc8a.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_8dc8a.dir/feature_tests.c.o  -o cmTC_8dc8a 
-make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_0d6eb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0d6eb.dir/build.make CMakeFiles/cmTC_0d6eb.dir/build
+make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0d6eb.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_0d6eb.dir/feature_tests.c.o   -c /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_0d6eb
+/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0d6eb.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_0d6eb.dir/feature_tests.c.o  -o cmTC_0d6eb 
+make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -161,17 +161,17 @@ make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cma
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_21781/fast"
-/usr/bin/make -f CMakeFiles/cmTC_21781.dir/build.make CMakeFiles/cmTC_21781.dir/build
-make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_21781.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_21781.dir/feature_tests.c.o   -c /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_21781
-/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_21781.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_21781.dir/feature_tests.c.o  -o cmTC_21781 
-make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_6ca49/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6ca49.dir/build.make CMakeFiles/cmTC_6ca49.dir/build
+make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6ca49.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_6ca49.dir/feature_tests.c.o   -c /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_6ca49
+/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6ca49.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_6ca49.dir/feature_tests.c.o  -o cmTC_6ca49 
+make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -181,17 +181,17 @@ make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cma
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_0a36b/fast"
-/usr/bin/make -f CMakeFiles/cmTC_0a36b.dir/build.make CMakeFiles/cmTC_0a36b.dir/build
-make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_0a36b.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_0a36b.dir/feature_tests.c.o   -c /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_0a36b
-/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0a36b.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_0a36b.dir/feature_tests.c.o  -o cmTC_0a36b 
-make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_47dff/fast"
+/usr/bin/make -f CMakeFiles/cmTC_47dff.dir/build.make CMakeFiles/cmTC_47dff.dir/build
+make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_47dff.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_47dff.dir/feature_tests.c.o   -c /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_47dff
+/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_47dff.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_47dff.dir/feature_tests.c.o  -o cmTC_47dff 
+make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -199,30 +199,30 @@ make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cma
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_4a8e0/fast"
-/usr/bin/make -f CMakeFiles/cmTC_4a8e0.dir/build.make CMakeFiles/cmTC_4a8e0.dir/build
-make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_4a8e0.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTC_4a8e0.dir/testCXXCompiler.cxx.o -c /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_4a8e0
-/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4a8e0.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_4a8e0.dir/testCXXCompiler.cxx.o  -o cmTC_4a8e0 
-make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_36f07/fast"
+/usr/bin/make -f CMakeFiles/cmTC_36f07.dir/build.make CMakeFiles/cmTC_36f07.dir/build
+make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_36f07.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_36f07.dir/testCXXCompiler.cxx.o -c /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_36f07
+/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_36f07.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_36f07.dir/testCXXCompiler.cxx.o  -o cmTC_36f07 
+make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_04637/fast"
-/usr/bin/make -f CMakeFiles/cmTC_04637.dir/build.make CMakeFiles/cmTC_04637.dir/build
-make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_04637.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTC_04637.dir/CMakeCXXCompilerABI.cpp.o -c /home/rc/Documents/clion-2018.2.6/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_04637
-/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_04637.dir/link.txt --verbose=1
-/usr/bin/c++      -v CMakeFiles/cmTC_04637.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_04637 
+Run Build Command:"/usr/bin/make" "cmTC_2a0c8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2a0c8.dir/build.make CMakeFiles/cmTC_2a0c8.dir/build
+make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2a0c8.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_2a0c8.dir/CMakeCXXCompilerABI.cpp.o -c /home/rc/Documents/clion-2018.2.6/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_2a0c8
+/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2a0c8.dir/link.txt --verbose=1
+/usr/bin/c++      -v CMakeFiles/cmTC_2a0c8.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_2a0c8 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper
@@ -232,24 +232,24 @@ Thread model: posix
 gcc version 8.2.1 20181127 (GCC) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_04637' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccvMnanW.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_04637 /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../.. CMakeFiles/cmTC_04637.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_04637' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_2a0c8' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccP2nAIK.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_2a0c8 /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../.. CMakeFiles/cmTC_2a0c8.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_2a0c8' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_04637/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_04637.dir/build.make CMakeFiles/cmTC_04637.dir/build]
-  ignore line: [make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_04637.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_04637.dir/CMakeCXXCompilerABI.cpp.o -c /home/rc/Documents/clion-2018.2.6/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_04637]
-  ignore line: [/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_04637.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_04637.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_04637 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_2a0c8/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_2a0c8.dir/build.make CMakeFiles/cmTC_2a0c8.dir/build]
+  ignore line: [make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_2a0c8.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_2a0c8.dir/CMakeCXXCompilerABI.cpp.o -c /home/rc/Documents/clion-2018.2.6/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_2a0c8]
+  ignore line: [/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2a0c8.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_2a0c8.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_2a0c8 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper]
@@ -259,13 +259,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 8.2.1 20181127 (GCC) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_04637' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccvMnanW.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_04637 /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../.. CMakeFiles/cmTC_04637.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_2a0c8' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccP2nAIK.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_2a0c8 /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../.. CMakeFiles/cmTC_2a0c8.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crtn.o]
     arg [/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccvMnanW.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccP2nAIK.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -280,7 +280,7 @@ Parsed CXX implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-pie] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_04637] ==> ignore
+    arg [cmTC_2a0c8] ==> ignore
     arg [/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/crtbeginS.o] ==> ignore
@@ -289,7 +289,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/lib/../lib] ==> dir [/lib/../lib]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../..] ==> dir [/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../..]
-    arg [CMakeFiles/cmTC_04637.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_2a0c8.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -312,17 +312,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++2a] compiler features compiled with the following output:
-Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_4b437/fast"
-/usr/bin/make -f CMakeFiles/cmTC_4b437.dir/build.make CMakeFiles/cmTC_4b437.dir/build
-make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_4b437.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++2a -o CMakeFiles/cmTC_4b437.dir/feature_tests.cxx.o -c /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_4b437
-/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4b437.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_4b437.dir/feature_tests.cxx.o  -o cmTC_4b437 
-make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_7fa5e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7fa5e.dir/build.make CMakeFiles/cmTC_7fa5e.dir/build
+make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_7fa5e.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++2a -o CMakeFiles/cmTC_7fa5e.dir/feature_tests.cxx.o -c /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_7fa5e
+/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7fa5e.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_7fa5e.dir/feature_tests.cxx.o  -o cmTC_7fa5e 
+make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -385,17 +385,17 @@ make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cma
 
 
 Detecting CXX [-std=c++17] compiler features compiled with the following output:
-Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_29edd/fast"
-/usr/bin/make -f CMakeFiles/cmTC_29edd.dir/build.make CMakeFiles/cmTC_29edd.dir/build
-make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_29edd.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++17 -o CMakeFiles/cmTC_29edd.dir/feature_tests.cxx.o -c /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_29edd
-/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_29edd.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_29edd.dir/feature_tests.cxx.o  -o cmTC_29edd 
-make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_96779/fast"
+/usr/bin/make -f CMakeFiles/cmTC_96779.dir/build.make CMakeFiles/cmTC_96779.dir/build
+make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_96779.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++17 -o CMakeFiles/cmTC_96779.dir/feature_tests.cxx.o -c /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_96779
+/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_96779.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_96779.dir/feature_tests.cxx.o  -o cmTC_96779 
+make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -458,17 +458,17 @@ make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cma
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_0030e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_0030e.dir/build.make CMakeFiles/cmTC_0030e.dir/build
-make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_0030e.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_0030e.dir/feature_tests.cxx.o -c /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_0030e
-/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0030e.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_0030e.dir/feature_tests.cxx.o  -o cmTC_0030e 
-make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_d6afb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d6afb.dir/build.make CMakeFiles/cmTC_d6afb.dir/build
+make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d6afb.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_d6afb.dir/feature_tests.cxx.o -c /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_d6afb
+/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d6afb.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_d6afb.dir/feature_tests.cxx.o  -o cmTC_d6afb 
+make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -531,17 +531,17 @@ make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cma
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_4820f/fast"
-/usr/bin/make -f CMakeFiles/cmTC_4820f.dir/build.make CMakeFiles/cmTC_4820f.dir/build
-make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_4820f.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_4820f.dir/feature_tests.cxx.o -c /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_4820f
-/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4820f.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_4820f.dir/feature_tests.cxx.o  -o cmTC_4820f 
-make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_3c096/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3c096.dir/build.make CMakeFiles/cmTC_3c096.dir/build
+make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3c096.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_3c096.dir/feature_tests.cxx.o -c /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_3c096
+/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3c096.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_3c096.dir/feature_tests.cxx.o  -o cmTC_3c096 
+make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -604,17 +604,17 @@ make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cma
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_9f142/fast"
-/usr/bin/make -f CMakeFiles/cmTC_9f142.dir/build.make CMakeFiles/cmTC_9f142.dir/build
-make[1]: Entering directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_9f142.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_9f142.dir/feature_tests.cxx.o -c /home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_9f142
-/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9f142.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_9f142.dir/feature_tests.cxx.o  -o cmTC_9f142 
-make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_fa1f7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fa1f7.dir/build.make CMakeFiles/cmTC_fa1f7.dir/build
+make[1]: Entering directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_fa1f7.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_fa1f7.dir/feature_tests.cxx.o -c /home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_fa1f7
+/home/rc/Documents/clion-2018.2.6/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fa1f7.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_fa1f7.dir/feature_tests.cxx.o  -o cmTC_fa1f7 
+make[1]: Leaving directory '/home/rc/GitRepository/DataStructure/DataStructure/LinkedStack/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
